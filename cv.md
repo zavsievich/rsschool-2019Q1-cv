@@ -17,7 +17,7 @@ Student of BSUIR. I'm faculty activist and union leader. I like to create web-si
 * a11y
 * Vue.js (in process)
 ### Experience:
-Have one commercial project [GPN Service](https://gpnservice.by/).Create some small landing pages [Amsterdam](https://zavsievich.github.io/Amsterdam/), [Blur](https://zavsievich.github.io/Blur/), [Photography-project](https://zavsievich.github.io/Photography-project/), [Parallax](https://zavsievich.github.io/Parallax/), [LoginPage](https://zavsievich.github.io/LoginPage/). 
+Have one commercial project [GPN Service](https://gpnservice.by/). Create some small landing pages [Amsterdam](https://zavsievich.github.io/Amsterdam/), [Blur](https://zavsievich.github.io/Blur/), [Photography-project](https://zavsievich.github.io/Photography-project/), [Parallax](https://zavsievich.github.io/Parallax/), [LoginPage](https://zavsievich.github.io/LoginPage/). 
 ### Education:
 * **BSUIR (2017-2021), [FIC](https://vk.com/fic_bsuir)**
 _Infocommunication Engineer_
