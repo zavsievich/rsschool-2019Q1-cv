@@ -6,6 +6,7 @@
 4. **Skype:** live:avszak
 5. **Facebook:** [Zahar Avsievich](https://www.facebook.com/zavsievich)
 6. **VK:** [Zahar Avsievich](https://vk.com/zavsievich)
+</ol>
 
 
 ### Summary:
@@ -18,7 +19,7 @@ Student of BSUIR. I'm faculty activist and union leader. I like to create web-si
 * Git
 * a11y
 * Vue.js (in process)
-
+</ol>
 
 ### Experience:
 Have one commercial project [GPN Service](https://gpnservice.by/). Create some small landing pages [Amsterdam](https://zavsievich.github.io/Amsterdam/), [Blur](https://zavsievich.github.io/Blur/), [Photography-project](https://zavsievich.github.io/Photography-project/), [Parallax](https://zavsievich.github.io/Parallax/), [LoginPage](https://zavsievich.github.io/LoginPage/). 
@@ -29,7 +30,7 @@ _Infocommunication Engineer_
 * Wrote a term paper on installing a web-application on _CMS WordPress_ and Local server _Denwer_. 
 * Now I'm going through the _Traversy Media`s JavaScript Course_.
 * _Cisco IT Essentials_
-
+</ol>
 
 ### Languages:
 * English–B1
