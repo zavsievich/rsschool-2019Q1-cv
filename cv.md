@@ -1,5 +1,7 @@
 #Ausiyevich Zakhar
 ##Contacts:
+# Ausiyevich Zakhar
+## Contacts:
 1. **email:** zavsievich@gmail.com
 2. **LinkedIn:** [Zahar Avsievich](https://www.linkedin.com/in/zahar-avsievich-01698b166/)
 3. **Telegram:** @ZAVSIEVICH
@@ -9,8 +11,10 @@
 ##Summary:
 Student of BSUIR, [FIC](https://vk.com/fic_bsuir). I'm faculty activist and union leader. I like to create web-sites on pure _HTML/CSS/JS_. Read articles about accessibility and new features of languages. I'm in the process of studying _JavaScript_ and _Vue.js_. Fond of watching movies in the original. I want to develop in learning new technologies, public speaking and sharing my knowledge with others.
 
+## Summary:
 Student of BSUIR. I'm faculty activist and union leader. I like to create web-sites on pure _HTML/CSS/JS_. Read articles about accessibility and new features of languages. I'm in the process of studying _JavaScript_ and _Vue.js_. Fond of watching movies in original. I want to develop in learning new technologies, public speaking and sharing my knowledge with others. Fan of Vadim Makeev.
 ##Skills:
+## Skills:
 * HTML5
 * CSS3
 * JavaScript
@@ -19,8 +23,10 @@ Student of BSUIR. I'm faculty activist and union leader. I like to create web-si
 * a11y
 * Vue.js (in process)
 ##Experience:
+## Experience:
 Have one commercial project [GPN Service](https://gpnservice.by/).Create some small landing pages [Amsterdam](https://zavsievich.github.io/Amsterdam/), [Blur](https://zavsievich.github.io/Blur/), [Photography-project](https://zavsievich.github.io/Photography-project/), [Parallax](https://zavsievich.github.io/Parallax/), [LoginPage](https://zavsievich.github.io/LoginPage/). 
 ##Education:
+## Education:
 * **BSUIR (2017-2021), [FIC](https://vk.com/fic_bsuir)**
 _Infocommunication Engineer_
 * Trained on _htmlacademy_ and _FreeCodeCamp_. 
@@ -28,5 +34,6 @@ _Infocommunication Engineer_
 * Now I'm going through the _Traversy Media`s JavaScript Course_.
 * _Cisco IT Essentials_
 ##Languages:
+## Languages:
 * English–B1
 
