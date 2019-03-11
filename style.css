@@ -1,0 +1,105 @@
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 1024px;
+    margin: auto;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header */
+.header {
+    display: grid;
+    grid-template-columns: 180px 127px;
+    grid-gap: calc(100% - 307px);
+    margin-bottom: 40px;
+}
+
+.hello {
+    text-align: center;
+    font-size: 3rem;
+    width: 160px;
+    height: 180px;
+    padding: 80px 10px 20px;
+    background-color: red;
+    font-weight: 700;
+    color: #fff;
+}
+
+.header__img {
+    
+}
+
+.main__head-el {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.head-el {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.content-wrapper {
+    margin-left: 40px;
+}
+
+.contacts__head-el--before::before {
+    content: "01.";
+    background-color: red;
+    color: #fff;
+}
+
+.summary__head-el--before::before {
+    content: "02.";
+    background-color: red;
+    color: #fff;
+}
+
+.skills__head-el--before::before {
+    content: "03.";
+    background-color: red;
+    color: #fff;
+}
+
+.experience__head-el--before::before {
+    content: "04.";
+    background-color: red;
+    color: #fff;
+}
+
+.education__head-el--before::before {
+    content: "05.";
+    background-color: red;
+    color: #fff;
+}
+
+.languages__head-el--before::before {
+    content: "06.";
+    background-color: red;
+    color: #fff;
+}
