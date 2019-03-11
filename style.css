@@ -72,34 +72,40 @@ a:hover {
     content: "01.";
     background-color: red;
     color: #fff;
+    padding: 3px;
 }
 
 .summary__head-el--before::before {
     content: "02.";
     background-color: red;
     color: #fff;
+    padding: 3px;
 }
 
 .skills__head-el--before::before {
     content: "03.";
     background-color: red;
     color: #fff;
+    padding: 3px;
 }
 
 .experience__head-el--before::before {
     content: "04.";
     background-color: red;
     color: #fff;
+    padding: 3px;
 }
 
 .education__head-el--before::before {
     content: "05.";
     background-color: red;
     color: #fff;
+    padding: 3px;
 }
 
 .languages__head-el--before::before {
     content: "06.";
     background-color: red;
     color: #fff;
+    padding: 3px;
 }
